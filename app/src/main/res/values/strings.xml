@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Assistant Case 1</string>
+    <string name="chat_title">AI Chat</string>
+    <string name="start_chat">Start Chat</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type your message...</string>
+    <string name="home_description">Android XML client with a Python Flask backend.</string>
+    <string name="welcome_message">Hello! I am your AI assistant. How can I help you?</string>
+</resources>
